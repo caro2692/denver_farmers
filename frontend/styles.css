@@ -1,0 +1,44 @@
+#heroImg{
+  border-right: black solid 1px;
+  border-left: black solid 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("http://www.oak-park.us/sites/default/files/styles/content-page-title-image/public/farmers-market-peppers2.jpg?itok=SDF9_a_H");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;;
+  padding-top: 10%;
+  /*padding-left: 5%;
+  padding-right: 2%;*/
+}
+
+.subTopic{
+  border: black solid 1px;
+  width: 95%;
+}
+
+#subWrapper{
+  margin: 0;
+}
+
+header{
+  border: black solid 1px;
+}
+
+.myBtn{
+  background-color: grey;
+}
+
+body{
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background-color: grey;
+  width: 100%;
+}
